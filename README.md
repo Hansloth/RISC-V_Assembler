@@ -1,17 +1,17 @@
 # RISC-V_Assembler
 Implementing RISC-V Assembler in Python
 
-##To run the code:
+###To run the code:
 >*STEP1 make an input.txt 
 >*STEP2 copy to the directory of the input.txt to the interger input_data_dir in the code
 >*STEP2 RUN!
 
-##Limitations:  
+###Limitations:  
 >*Please only input decimal to I type instructions  
 >*Only work on R,S,I type instructions  
 
-##Sample Input and Outputs:  
->example 1 (R Type Instructions):    
+###Sample Input and Outputs:  
+>Example 1 (R Type Instructions):    
 >add x5, x0, x12    
 >xor x21, x11, x10  
 >srl x14, x19, x1  
@@ -23,7 +23,7 @@ Implementing RISC-V Assembler in Python
 >00000000000110011101011100110011   
 >00000000001100011110011000110011   
 
->example 2 (I Type Instructions):  
+>Example 2 (I Type Instructions):  
 >addi x5, x0, 100  
 >slti x21, x11, 121  
 >sltiu x11, x6, 0  
@@ -35,7 +35,7 @@ Implementing RISC-V Assembler in Python
 >00000000000000110011010110010011  
 >00000100010100011110011000010011  
   
->example 3 (S Type Instructions):  
+>Example 3 (S Type Instructions):  
 >sb x10, 10(x6)  
 >sh x18, 8(x11)  
 >sh x18, 8(x11)  
