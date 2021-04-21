@@ -6,9 +6,9 @@ Implementing RISC-V Assembler in Python
 >*STEP2 copy to the directory of the input.txt to the interger input_data_dir in the code  
 >*STEP2 RUN!
 
-    ## Limitations:  
->*    Please only input decimal to I type instructions  
->*    Only work on R,S,I type instructions  
+##Limitations:  
+>*Please only input decimal to I type instructions  
+>*Only work on R,S,I type instructions  
 
 ## Sample Input and Outputs:   
 ### Example 1 (R Type Instructions):    
