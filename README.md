@@ -7,7 +7,7 @@ Implementing RISC-V Assembler with Python
 >* STEP2 RUN!
    
 Limitations:  
->* Please only input decimal to I-type instructions  
+>* Please only input decimal numbers to I-type instructions  
 >* Only work on R,S,I type instructions  
 
 ## Sample Inputs and Outputs:   
