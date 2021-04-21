@@ -17,7 +17,7 @@ Implementing RISC-V Assembler in Python
 >srl x14, x19, x1  
 >or x12, x3, x3   
 >
->Output Code => 
+>Output Code =>  
 >00000000110000000000001010110011   
 >00000000101001011100101010110011   
 >00000000000110011101011100110011   
