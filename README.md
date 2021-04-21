@@ -10,7 +10,7 @@ Limitations:
 >* Please only input decimal to I-type instructions  
 >* Only work on R,S,I type instructions  
 
-## Sample Input and Outputs:   
+## Sample Inputs and Outputs:   
 Example 1 ( R-Type Instructions ):  
 >Input Code =>   
 >add x5, x0, x12    
