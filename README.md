@@ -4,7 +4,7 @@ Implementing RISC-V Assembler with Python
 ## To run the code:
 >* STEP1 Make an input.txt   
 >* STEP2 Copy the directory of the input.txt to the interger input_data_dir in the code  
->* STEP2 RUN!
+>* STEP RUN!
    
 Limitations:  
 >* Please only input decimal numbers to I-type instructions  
