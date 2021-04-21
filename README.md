@@ -1,5 +1,5 @@
 # RISC-V_Assembler
-Implementing RISC-V Assembler in Python
+Implementing RISC-V Assembler with Python
 
 ## To run the code:
 >* STEP1 make an input.txt   
