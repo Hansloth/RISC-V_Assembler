@@ -11,7 +11,7 @@ Limitations:
 >* Only work on R,S,I type instructions  
 
 ## Sample Input and Outputs:   
-Example 1 (R Type Instructions):    
+Example 1 ( R-Type Instructions ):    
 >add x5, x0, x12    
 >xor x21, x11, x10  
 >srl x14, x19, x1  
@@ -23,7 +23,7 @@ Example 1 (R Type Instructions):
 >00000000000110011101011100110011   
 >00000000001100011110011000110011   
 
-Example 2 (I Type Instructions):  
+Example 2 ( I-Type Instructions ):  
 >addi x5, x0, 100  
 >slti x21, x11, 121  
 >sltiu x11, x6, 0  
@@ -35,7 +35,7 @@ Example 2 (I Type Instructions):
 >00000000000000110011010110010011  
 >00000100010100011110011000010011  
   
-Example 3 (S Type Instructions):  
+Example 3 ( S-Type Instructions ):  
 >sb x10, 10(x6)  
 >sh x18, 8(x11)  
 >sh x18, 8(x11)  
